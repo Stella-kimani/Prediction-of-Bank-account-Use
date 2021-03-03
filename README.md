@@ -1,4 +1,4 @@
-# Financial inclusion in Kenya, Uganda, Rwanda, Tanzania
+
 
 # SQL Notebook 
 
@@ -8,10 +8,10 @@ Research Question Notebook 1:Understanding financial inclusion by determining ho
 
 Research Question Notebook 2: Done using SQL.The objective is to Identify the states that should be prioritized to win the US general election.
 
-# Set up /Installation Requirements
+Set up /Installation Requirements
 
 Clone this Repository by running  https://github.com/Stella-kimani/Stella.git
-# known Bugs
+known Bugs
 
 There are no Known bugs.
 
